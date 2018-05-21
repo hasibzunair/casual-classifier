@@ -16,7 +16,7 @@ I have used the following dependencies.
 
 For the training image for KNN and the template for BFMatcher I have used the following image. <br />
 
-![alt-text-2](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/test_images/train.png "title-1")
+![alt-text-2](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/test_images/train.png "title-1")<br />
 
 # Results
 
