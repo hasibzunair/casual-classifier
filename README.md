@@ -22,7 +22,7 @@ For the training image for KNN and the template for BFMatcher I have used the fo
 
 For the KNN matcher the minimum match count is 195 and for the brute force matcher it is 10. In case of KNN, matches above 195 is classified as a jackfruit. And for brute force, matches above 10 is idenfied as a jackfruit. Below are the results for different input images in which both the techniques are applied and results are compared which show the match scores.
 
-Flann Based KNN Matcher (match>195 is jackfruit)             |  Brute Force Matcher (match>10 is jackfruit)
+Flann Based KNN Matcher (match>10 is jackfruit)             |  Brute Force Matcher (match>195 is jackfruit)
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_1.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_1.png) 
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_2.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_2.png)
