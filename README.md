@@ -1,7 +1,8 @@
 # casual-classifier-KNN-BFMatch
 
-Here, a flann based knn matcher using sift feature extractor and brute force matching is demonstrated using the training image/ template as the jackfruit.The key points and their descriptors are found using the orb detector. Different images of fruits are given as an input and the output is shown as a result of good matches. From both the algorithms, the features are extracted and the result is stored in the matches/goodmatch variable of each technique. 
+Here, a flann based knn matcher using sift feature extractor and brute force matching is demonstrated using the training image/ template as the jackfruit.The key points and their descriptors are found using the orb detector. Different images of fruits are given as an input and the output is shown as a result of feature matches. <br />
 
+From both the algorithms, the features are extracted and the result is stored in the matches/goodmatch variable of each technique. For a training and template image i have used an image of a jackfruit. When the features matching variable returns a ccertain value it is identified as a jackfruit. <br />
 
 # Dependencies 
 
@@ -10,17 +11,16 @@ I have used the following dependencies.
    * openCV
    * matplotlib
    * numpy
-   * math
    
 # Template
 
-For the training image for KNN and the template for BFMatcher I have used this image. <br />
+For the training image for KNN and the template for BFMatcher I have used the following image. <br />
 
 ![alt-text-2](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/test_images/train.png")<br />
  
 # Results
 
-For the KNN matcher the minimum match count is 195 and for the brute force matcher it is 10. Below are the results for different input images which show the match score.
+For the KNN matcher the minimum match count is 195 and for the brute force matcher it is 10. In case of KNN, matches above 195 is classified as a jackfruit. And for brute force, matches above 10 is idenfied as a jackfruit. Below are the results for different input images in which both the techniques are applied and results are compared which show the match scores.
 
 Flann Based KNN Matcher             |  Brute Force Matcher
 :-------------------------:|:-------------------------:
@@ -34,6 +34,7 @@ Flann Based KNN Matcher             |  Brute Force Matcher
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_8.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_8.png)
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_9.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_9.png)
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_10.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_10.png)   
+<br />
 
 # Credits
 
