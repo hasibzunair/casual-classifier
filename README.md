@@ -16,8 +16,8 @@ I have used the following dependencies.
 
 For the training image for KNN and the template for BFMatcher I have used the following image. <br />
 
-![alt-text-2](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/test_images/train.png")<br />
- 
+![alt-text-2](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/test_images/train.png")
+
 # Results
 
 For the KNN matcher the minimum match count is 195 and for the brute force matcher it is 10. In case of KNN, matches above 195 is classified as a jackfruit. And for brute force, matches above 10 is idenfied as a jackfruit. Below are the results for different input images in which both the techniques are applied and results are compared which show the match scores.
