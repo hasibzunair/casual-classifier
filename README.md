@@ -36,7 +36,8 @@ Flann Based KNN Matcher (match>10 is jackfruit)             |  Brute Force Match
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_10.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_10.png)   
 <br />
 
-# Credits
+# Resources
 
+Some of the materials are used from the [documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html) here.
 
 
