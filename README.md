@@ -38,6 +38,6 @@ Flann Based KNN Matcher (match>10 is jackfruit)             |  Brute Force Match
 
 # Resources
 
-Some of the materials are used from the [documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html) here.
+Some of the materials are used from the [documentations](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html) here. Also I took extensive help from [this](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html) section of the documentations.
 
 
