@@ -16,7 +16,7 @@ I have used the following dependencies.
 
 For the training image for KNN and the template for BFMatcher I have used this image. <br />
 
-![alt-text-2](https://github.com/hasibzunair/strawberry-detector/blob/master/Figure_2.png "title-2")<br />
+![alt-text-2](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/test_images/train.png")<br />
  
 # Results
 
