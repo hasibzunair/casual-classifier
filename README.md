@@ -28,7 +28,7 @@ Flann Based KNN Matcher (match>10 is jackfruit)             |  Brute Force Match
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_2.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_2.png)
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_3.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_3.png)
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_4.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_4.png)
-![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_5.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_6.png)
+![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_5.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_5.png)
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_6.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_6.png)
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_7.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_7.png)
 ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_8.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_8.png)
