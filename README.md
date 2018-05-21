@@ -4,7 +4,7 @@ Here, a flann based knn matcher using sift extractor and brute force feature mat
 
 Flann Based KNN Matcher             |  Brute Force Matcher
 :-------------------------:|:-------------------------:
-![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_1.png)  |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_1.png)
+![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_1.png) 
+![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_1.png) |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_1.png) 
+![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_1.png)
 
-
-![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/knn/Figure_1.png)  |  ![](https://github.com/hasibzunair/casual-classifier-KNN-BFMatch/blob/master/bfMatch/Figure_1.png)
