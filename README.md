@@ -1,6 +1,6 @@
 # casual-classifier
 
-Another fruit based project since I am on a diet! A flann based knn matcher using sift feature extractor and brute force matching is demonstrated using the training image/ template as the jackfruit.The key points and their descriptors are found using the orb detector. Different images of fruits are given as an input and the output is shown as a result of feature matches. <br />
+Another fruit based project since I am on a diet! A flann based knn matcher using sift feature extractor and orb detector with a brute force matcher is demonstrated using the training image/ template as the jackfruit.The key points and their descriptors are found using the feature extractors. After which they are feed to the matching algorithms. Different images of fruits are given as an input and the output is shown as a result of feature matches. <br />
 
 From both the algorithms, the features are extracted and the result is stored in the matches/goodmatch variable of each technique. For the training and template image i have used an image of a jackfruit, it being our national fruit! When the feature matching variable returns a certain value it is identified as a jackfruit. <br />
 
@@ -38,6 +38,6 @@ Flann Based KNN Matcher (match>10 is jackfruit)             |  Brute Force Match
 
 # Resources
 
-Some of the materials are used from the [documentations](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html) here. Also I took extensive help from [this](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html) section of the documentations.
+Some of the materials are used from the [documentations](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html) here and [here](http://www.coldvision.io/2016/06/27/object-detection-surf-knn-flann-opencv-3-x-cuda/). Also I took extensive help from [this](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html) section of the documentations.
 
 
