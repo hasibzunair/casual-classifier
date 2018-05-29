@@ -38,6 +38,6 @@ Flann Based KNN Matcher (match>10 is jackfruit)             |  Brute Force Match
 
 # Resources
 
-Some of the materials are used from the [documentations](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html) here and [here](http://www.coldvision.io/2016/06/27/object-detection-surf-knn-flann-opencv-3-x-cuda/). Also I took extensive help from [this](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html) section of the documentations.
+Some of the materials are used from the documentations [here](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html) and [here](http://www.coldvision.io/2016/06/27/object-detection-surf-knn-flann-opencv-3-x-cuda/). Also I took extensive help from [this](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html) section of the documentations.
 
 
