@@ -1,4 +1,4 @@
-# casual-classifier
+# jackfruit or not a jackfruit
 
 Another fruit based project since I am on a diet! A flann based knn matcher using sift feature extractor and orb detector with a brute force matcher is demonstrated using the training image/ template as the jackfruit.The key points and their descriptors are found using the feature extractors. After which they are feed to the matching algorithms. Different images of fruits are given as an input and the output is shown as a result of feature matches. <br />
 
