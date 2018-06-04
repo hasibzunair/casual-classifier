@@ -2,7 +2,7 @@
 
 Another fruit based project since I am on a diet! A flann based knn matcher using sift feature extractor and orb detector with a brute force matcher is demonstrated using the training image/ template as the jackfruit.The key points and their descriptors are found using the feature extractors. After which they are feed to the matching algorithms. Different images of fruits are given as an input and the output is shown as a result of feature matches. <br />
 
-From both the algorithms, the features are extracted and the result is stored in the matches/goodmatch variable of each technique. For the training and template image i have used an image of a jackfruit, it being our national fruit! When the feature matching variable returns a certain value it is identified as a jackfruit. <br />
+From both the algorithms, the features are extracted and the results are stored in the matches/goodmatch variable as a result of a weighted number for each technique. For the training and template image i have used an image of a jackfruit, it being our national fruit! When the feature matching variable returns a certain value it is identified as a jackfruit. <br />
 
 # Dependencies 
 
