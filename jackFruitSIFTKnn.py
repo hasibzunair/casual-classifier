@@ -45,7 +45,7 @@ else:
 x = len(goodMatch)
 y = 'Matches Score =  '
 z = y + str(x)
-
+# display the results
 plt.figure(1)
 plt.suptitle('Jackfruit Classifier using FLANN based KNN Matcher', fontsize=16)
 plt.plot(1)
